@@ -375,7 +375,7 @@ plt.ylabel('No.of Medals')
 
 
 
-![png](output_11_1.png)
+![png](img/output_11_1.png)
 
 
 ## Plot Medals won each year from 1924 (Winter Olympics)
@@ -395,7 +395,7 @@ plt.ylabel('No.of Medals')
 
 
 
-![png](output_13_1.png)
+![png](img/output_13_1.png)
 
 
 ## Plot of Medals won by top 20 Countries in Summer Olympics
@@ -433,7 +433,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](img/output_18_0.png)
 
 
 <div style="page-break-after: always;"></div>
@@ -477,7 +477,7 @@ plt.show() # ta-da!
 ```
 
 
-![png](output_24_0.png)
+![png](img/output_24_0.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -503,7 +503,7 @@ plt.ylabel('Athlete')
 
 
 
-![png](output_27_1.png)
+![png](img/output_27_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -529,7 +529,7 @@ plt.ylabel('Athlete')
 
 
 
-![png](output_30_1.png)
+![png](img/output_30_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -555,7 +555,7 @@ plt.ylabel('Athlete')
 
 
 
-![png](output_33_1.png)
+![png](img/output_33_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -582,7 +582,7 @@ plt.ylabel('Athlete')
 
 
 
-![png](output_36_1.png)
+![png](img/output_36_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -603,7 +603,7 @@ plt.title('Medals Won By India in Olympics')
 
 
 
-![png](output_39_1.png)
+![png](img/output_39_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -628,7 +628,7 @@ plt.ylabel('No of Medals')
 
 
 
-![png](output_42_1.png)
+![png](img/output_42_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -653,7 +653,7 @@ plt.ylabel('No of Medals')
 
 
 
-![png](output_45_1.png)
+![png](img/output_45_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -679,7 +679,7 @@ plt.xlabel('No. of Medals')
 
 
 
-![png](output_48_1.png)
+![png](img/output_48_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -704,7 +704,7 @@ plt.xlabel('No. of Medals')
 
 
 
-![png](output_51_1.png)
+![png](img/output_51_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -729,7 +729,7 @@ plt.xlabel('No. of Medals')
 
 
 
-![png](output_54_1.png)
+![png](img/output_54_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -754,7 +754,7 @@ plt.xlabel('No. of Medals')
 
 
 
-![png](output_57_1.png)
+![png](img/output_57_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -778,7 +778,7 @@ plt.ylabel('No of Medals')
 
 
 
-![png](output_60_1.png)
+![png](img/output_60_1.png)
 
 
 <p style="page-break-after:always;"></p>
@@ -802,7 +802,7 @@ plt.ylabel('No of Medals')
 
 
 
-![png](output_63_1.png)
+![png](img/output_63_1.png)
 
 
 ---
